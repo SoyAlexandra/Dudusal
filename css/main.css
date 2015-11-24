@@ -337,7 +337,7 @@ nav.shrink .navbar-toggle {
 }
 .owl-carousel .owl-wrapper, .owl-carousel .owl-item:nth-child(1) .item
 {
-	background: url('../images/1.jpg');
+	background: url('../images/.jpg');
 	background-size: cover;
 	background-position: bottom;
 }
